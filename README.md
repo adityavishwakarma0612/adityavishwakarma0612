@@ -17,7 +17,7 @@ I am a B.Tech Computer Science student passionate about coding and building prac
 ## 📫 How to reach me
 - Email: adityakumarvishwakarma865@gmail.com
 - LinkedIn: www.linkedin.com/in/aditya-kumar-vishwakarmaa
-- GitHub: 
+- GitHub: github.com/adityavishwakarma0612
 
 <!--
 **adityavishwakarma0612/adityavishwakarma0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

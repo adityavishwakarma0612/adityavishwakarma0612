@@ -2,15 +2,16 @@
 I am a B.Tech Computer Science student passionate about coding and building practical solutions. I enjoy solving problems and continuously improving my technical skills.
 
 ## 🚀 What am I currently working on?
-- Improving my Python & Flask development skills  
-- Learning Cybersecurity fundamentals  
+- Improving my Python & django development skills  
+- 
 - Exploring AI & Machine Learning  
 - Building real-world projects to strengthen concepts  
 
 ## 🛠 Tools & Technologies
 - Languages: Python, C, C++  
-- Frameworks: Flask  
-- Libraries: NumPy  
+- Frameworks: django
+
+- Libraries: NumPy,pandas,matplotlib  
 - Tools: Git, GitHub, VS Code, PyCharm ,sublime text
 - Concepts: Networking basics, Problem Solving  
 

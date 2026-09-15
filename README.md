@@ -3,7 +3,6 @@ I am a B.Tech Computer Science student passionate about coding and building prac
 
 ## 🚀 What am I currently working on?
 - Improving my Python & django development skills  
-- 
 - Exploring AI & Machine Learning  
 - Building real-world projects to strengthen concepts  
 
